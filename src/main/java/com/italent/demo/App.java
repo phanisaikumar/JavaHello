@@ -13,7 +13,7 @@ import org.hibernate.Session;
 public class App {
 	public static void main(String[] args) {
 		// email ID of Recipient.
-		String recipient = "recipient@gmail.com";
+		int recipient = 1;
 
 		// email ID of Sender.
 		String sender = "sender@gmail.com";
